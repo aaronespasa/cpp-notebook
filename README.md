@@ -1,2 +1,2 @@
-# cpp-notebook
-Learn C++ using Jupyter Notebooks
+# C++ Notebooks
+*Here I'll be uploading almost all the knowledge I am learning from C++.*
