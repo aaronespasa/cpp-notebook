@@ -1,5 +1,4 @@
-# C++ Notebooks
-*Here I'll be uploading almost all the knowledge I am learning from C++.*
+# C++ Notes (Theoretical and Practical content)
 
 ## How to read the notes
 
@@ -10,12 +9,16 @@
 
 - **Markdown (.md)**: I use Typora with the [Cobalt theme](https://theme.typora.io/theme/cobalt/).
 
-## Organization
+## File Organization
 
 I use the same organization as the [C++ course in Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
 
-1. **Foundations**
-2. **Object-Oriented Programming**
-3. **Memory Management**
-4. **Concurrency**
+1. [**Foundations**](https://github.com/aaronespasa/cpp-notebook/tree/main/1.Foundations)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif" />
+
+   - **A\* Search**: As we learn about arrays, functions,etc. we'll use this knowledge to develop an A* Search algorithm.
+   - **CMake** for writing multifile programs. 
+2. [**Object-Oriented Programming**](https://github.com/aaronespasa/cpp-notebook/tree/main/2.Object-Oriented-Programming)
+3. [**Memory Management**](https://github.com/aaronespasa/cpp-notebook/tree/main/3.Memory-Management)
+4. [**Concurrency**](https://github.com/aaronespasa/cpp-notebook/tree/main/4.Concurrency)
 
