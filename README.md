@@ -15,7 +15,7 @@ I use the same organization as the [C++ course in Udacity](https://www.udacity.c
 
 1. [**Foundations**](https://github.com/aaronespasa/cpp-notebook/tree/main/1.Foundations)
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Astar_progress_animation.gif" />
-
+   - **Introduction**: Language basics, vectors, printing, reading files, etc.
    - **A\* Search**: As we learn about arrays, functions,etc. we'll use this knowledge to develop an A* Search algorithm.
    - **CMake** for writing multifile programs. 
 2. [**Object-Oriented Programming**](https://github.com/aaronespasa/cpp-notebook/tree/main/2.Object-Oriented-Programming)
