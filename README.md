@@ -9,6 +9,8 @@
 
 - **Markdown (.md)**: I use Typora with the [Cobalt theme](https://theme.typora.io/theme/cobalt/).
 
+<p align="center"><img src="https://github.com/aaronespasa/cpp-notebook/blob/main/README-Images/0.README/typora-cobalt.png" width="500" /></p>
+
 ## File Organization
 
 I use the same organization as the [C++ course in Udacity](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
