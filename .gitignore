@@ -33,3 +33,9 @@
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Visual studio code
+.vscode
+
+# MacOS files
+.DS_Store
